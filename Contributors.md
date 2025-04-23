@@ -2128,6 +2128,7 @@ Matthew Burgos
 - [Pravallika Panyam](https://github.com/panyampravallika)
 - [Ben C (TheSilverBulet)](https://github.com/TheSilverBulet)
 -[Biokes](https://github.com/Biokes)
+- [Luke Lumakin](https://github.com/lukegabriel520)
 - [Faraz Mirza](https://github.com/code-with-faraz)
 - [Raghav]
 - [Claire] (https://github.com/clairew16)
@@ -2242,7 +2243,6 @@ Matthew Burgos
 -Mustafa Magdy aka Farkha (https://github.com/MustafaMagdyy)
 -[aieng-abdullah](https://github.com/aieng-abdullah)
 - [DPAC](https://github.com/ldpacl)
-- [Luke Lumakin](https://github.com/lukegabriel520)
 -[Abinanthan-CG](https://github.com/Abinanthan-CG)
 - [JoroAmboara] (https://github.com/JoroAmboara)
 - [BISCUITIC](https://github.com/BISCUITIC)
